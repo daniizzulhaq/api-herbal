@@ -1,0 +1,42 @@
+[
+    {
+        "nama": "Daun Belimbing Wuluh",
+        "deskripsi": "Daun belimbing wuluh memiliki aroma yang khas dan digunakan dalam masakan tradisional untuk memberikan rasa segar dan asam.",
+        "kegunaan": "Bumbu Masakan"
+    },
+    {
+        "nama": "Daun Jambu Biji",
+        "deskripsi": "Daun jambu biji biasanya digunakan sebagai bahan makanan tambahan dalam masakan atau sebagai obat tradisional.",
+        "kegunaan": "Bahan Makanan dan Obat Tradisional"
+    },
+    {
+        "nama": "Daun Jeruk Nipis",
+        "deskripsi": "Daun jeruk nipis memiliki aroma yang segar dan digunakan dalam masakan dan minuman untuk memberikan aroma dan rasa khas.",
+        "kegunaan": "Bumbu Masakan dan Minuman"
+    },
+    {
+        "nama": "Daun Kemangi",
+        "deskripsi": "Daun kemangi memiliki aroma yang harum dan segar serta digunakan dalam masakan sebagai bumbu atau hiasan.",
+        "kegunaan": "Bumbu Masakan dan Hiasan"
+    },
+    {
+        "nama": "Daun Lidah Buaya",
+        "deskripsi": "Daun lidah buaya digunakan dalam produk perawatan kulit dan rambut karena memiliki sifat pelembab dan penyembuh alami.",
+        "kegunaan": "Produk Perawatan Kulit dan Rambut"
+    },
+    {
+        "nama": "Daun Nangka",
+        "deskripsi": "Daun nangka biasanya digunakan dalam masakan sebagai bungkus atau bumbu untuk memberikan aroma dan rasa khas.",
+        "kegunaan": "Bumbu Masakan"
+    },
+    {
+        "nama": "Daun Pandan",
+        "deskripsi": "Daun pandan memiliki aroma yang khas dan digunakan dalam pembuatan kue, minuman, dan makanan tradisional.",
+        "kegunaan": "Bahan Makanan dan Pembuat Minuman"
+    },
+    {
+        "nama": "Daun Pepaya",
+        "deskripsi": "Daun pepaya digunakan dalam masakan sebagai bumbu dan juga dalam pengobatan tradisional untuk berbagai tujuan kesehatan.",
+        "kegunaan": "Bumbu Masakan dan Obat Tradisional"
+    }
+]
